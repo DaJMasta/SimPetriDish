@@ -1,5 +1,5 @@
 # SimPetriDish
-Sim Petri Dish a Java microbe simulator
+Sim Petri Dish: a microbe simulator written in Java
 By Jonathan Zepp - DaJMasta
 
 Distributed under GPLv3 license
